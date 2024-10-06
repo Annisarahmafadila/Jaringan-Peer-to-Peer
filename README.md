@@ -1,1 +1,2 @@
 # Jaringan-Peer-to-Peer
+Jaringan peer to peer merupakan jaringan yang menghubungkan beberapa komputer tanpa harus ada komputer yang berperan sebagai server. Dalam jaringan ini, semua komputer memiliki posisi yang sama karena tidak satu pun komputer yang memiliki peran khusus. Itu artinya, setiap komputer menjadi server sekaligus klien dalam waktu bersamaan. Pengguna bisa melakukan file sharing (berbagi file) dengan mudah tanpa adanya kontrol khusus.
